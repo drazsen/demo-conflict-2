@@ -1,1 +1,1 @@
-file 2 first line
+file 2 first changed line
